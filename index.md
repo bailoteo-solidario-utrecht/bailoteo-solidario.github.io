@@ -7,8 +7,6 @@ layout: default
 
 ## August 10, 2026 — Magnitude 7.4 Earthquake strikes Western Colombia
 
-![flyer](img/flyer2.jpeg)
-
 It has been more than a week since western Colombia was hit by a 7.4 earthquake [1,2]. The fatalities have reached 289 people, while there are 379 people reported as missing behind the collapsed buildings [1,2]. The landscape in Risaralda, Quindío, Caldas, Valle del Cauca, and Chocó is devastated. As these regions are home to nearly 8 million people, thousands of houses, buildings, and shopping centres are damaged or need to be demolished. The earthquake hit 15 states, 470 towns, and nearly 143 thousand families, affecting 300 thousand people [3]. Regarding infrastructure, the official count showed 30 thousand houses destroyed, 135 thousand affected, and nearly 2 thousand educational institutions affected [3]. 
 
 As Colombia ranks among the top five in income inequality, the earthquake struck differently across regions and among people. While some capital cities have stronger institutional organisations, there are peripheral towns along the Pacific coast that have historically been neglected by the state. There lived indigenous and Afro-Colombian communities with poor digital connectivity and a lack of transport and social infrastructure development. Please join us and help us to help Colombia.
