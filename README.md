@@ -1,7 +1,15 @@
-# BAILOTEO SOLIDARIO — ONE NIGHT FOR COLOMBIA
-![bailoteo](img/bailoteo.png)
+<style>
+  header .container h1, 
+  header .container h2,
+  .page-header { 
+    display: none !important; 
+  }
+</style>
 
+![bailoteo](img/bailoteo.png)
 ![solidario](img/solidario.png)
+
+# BAILOTEO SOLIDARIO — ONE NIGHT FOR COLOMBIA
 
 Recovery after an earthquake is a long-term effort, and we can all be part of it 💛
 
