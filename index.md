@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![bailoteo](img/bailoteo.png)
 ![solidario](img/solidario.png)
 
