@@ -1,11 +1,3 @@
-<style>
-  header .container h1, 
-  header .container h2,
-  .page-header { 
-    display: none !important; 
-  }
-</style>
-
 ![bailoteo](img/bailoteo.png)
 ![solidario](img/solidario.png)
 
