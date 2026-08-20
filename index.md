@@ -49,7 +49,7 @@ Mar de putes - Cumbia Villera Neo perreo
 A false pilgrim - Techno 
 
 <div class="carousel">
-  <img id="carousel-image" src="img/flyer1.png" alt="Bailoteo Solidario">
+  <img id="carousel-image" src="img/flyer.png" alt="Bailoteo Solidario">
 
   <div class="carousel-controls">
     <button onclick="previousImage()" aria-label="Previous image">←</button>
