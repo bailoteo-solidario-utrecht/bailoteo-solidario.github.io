@@ -30,24 +30,6 @@ As Colombia ranks among the top five in income inequality, the earthquake struck
 
 ## DJs SUPPORTING EARTHQUAKE VICTIMS
 
-We are happy to announce that many friends will volunteer as DJs at our **Bailoteo Solidario**. Join us for a night full of music, dancing, Colombian bites, and good vibes, all while coming together to support Colombia. 🇨🇴🫶
-
-**Confirmed DJs:**
-
-Magonorrea - Cumbia & disco 
-
-
-Dj Buenodiaz - Latino 
-
-
-B.R.E b2b Homescapes - Latino Caribbean 
-
-
-Mar de putes - Cumbia Villera Neo perreo 
-
-
-A false pilgrim - Techno 
-
 <div class="carousel">
   <img id="carousel-image" src="img/flyer.png" alt="Bailoteo Solidario">
 
@@ -86,3 +68,21 @@ A false pilgrim - Techno
     updateCarousel();
   }
 </script>
+
+We are happy to announce that many friends will volunteer as DJs at our **Bailoteo Solidario**. Join us for a night full of music, dancing, Colombian bites, and good vibes, all while coming together to support Colombia. 📀🪩💿
+
+**Confirmed DJs:**
+
+Magonorrea - Cumbia & disco 
+
+
+Dj Buenodiaz - Latino 
+
+
+B.R.E b2b Homescapes - Latino Caribbean 
+
+
+Mar de putes - Cumbia Villera Neo perreo 
+
+
+A false pilgrim - Techno 
