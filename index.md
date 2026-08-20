@@ -11,16 +11,16 @@ It has been more than a week since western Colombia was hit by a 7.4 earthquake 
 
 As Colombia ranks among the top five in income inequality, the earthquake struck differently across regions and among people. While some capital cities have stronger institutional organisations, there are peripheral towns along the Pacific coast that have historically been neglected by the state. There lived indigenous and Afro-Colombian communities with poor digital connectivity and a lack of transport and social infrastructure development. Please join us and help us to help Colombia.
 
-[1] https://www.bbc.com/news/articles/c20e360lx0vo
+[1] [BBC - At least 169 killed in Colombia's largest earthquake in years](https://www.bbc.com/news/articles/c20e360lx0vo)
 
-[2] https://razonpublica.com/sismo-en-la-palma-choco-precedentes-historicos-y-desafios-clave/
+[2] [Razón Pública - Sismo en La Palma-Chocó: precedentes históricos y desafíos clave ](https://razonpublica.com/sismo-en-la-palma-choco-precedentes-historicos-y-desafios-clave/)
 
-[3] https://www.lafm.com.co/actualidad/terremoto-colombia-van-312-muertos-290-desaparecidos-emergencia-rescate-408294
+[3] [La fm - ¿Cuántos muertos van por el terremoto en Colombia? Último balance de la UNGRD hoy 19 de agosto](https://www.lafm.com.co/actualidad/terremoto-colombia-van-312-muertos-290-desaparecidos-emergencia-rescate-408294)
 
 ## BAILOTEO SOLIDARIO — ONE NIGHT FOR COLOMBIA
 
 <div class="carousel">
-  <img id="carousel-image" src="images/image1.png" alt="Image 1">
+  <img id="carousel-image" src="img/flyer2.png" alt="Bailoteo SOlidario">
 
   <div class="carousel-controls">
     <button onclick="previousImage()" aria-label="Previous image">←</button>
